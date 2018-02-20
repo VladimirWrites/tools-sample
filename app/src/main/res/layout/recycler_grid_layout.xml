@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:menu="menu_test">
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingLeft="@dimen/margin_mini"
+        android:paddingRight="@dimen/margin_mini"
+        android:paddingTop="@dimen/margin_small"
+        tools:layoutManager="GridLayoutManager"
+        tools:listitem="@layout/item_recycler_fixed_size"
+        tools:spanCount="2" />
+
+</LinearLayout>
