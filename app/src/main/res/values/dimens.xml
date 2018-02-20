@@ -2,15 +2,17 @@
 <resources>
 
     <!-- margins -->
-    <dimen name="margin_nano">2dp</dimen>
     <dimen name="margin_mini">4dp</dimen>
     <dimen name="margin_small">8dp</dimen>
     <dimen name="margin_normal">16dp</dimen>
     <dimen name="margin_large">24dp</dimen>
-    <dimen name="margin_huge">32dp</dimen>
 
     <!-- cards -->
     <dimen name="card_radius">2dp</dimen>
     <dimen name="card_elevation">2dp</dimen>
+
+    <dimen name="item_horizontal_image_height">100dp</dimen>
+    <dimen name="item_horizontal_width">150dp</dimen>
+    <dimen name="item_horizontal_height">220dp</dimen>
 
 </resources>
