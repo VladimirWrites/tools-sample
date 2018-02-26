@@ -2,6 +2,9 @@
 *.apk
 *.ap_
 
+#Synced sample data
+app/sampledata
+
 # Files for the ART/Dalvik VM
 *.dex
 
