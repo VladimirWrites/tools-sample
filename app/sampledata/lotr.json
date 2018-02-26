@@ -1,0 +1,64 @@
+{
+  "characters": [
+    {
+      "name": "Frodo Baggins",
+      "about": "Frodo Baggins, son of Drogo Baggins, was a Hobbit of the Shire during the Third Age. He was, and still is, Tolkien's most renowned character for his leading role in the Quest of the Ring, in which he bore the One Ring to Mount Doom, where it was destroyed. He was a Ring-bearer, best friend to his gardener, Samwise Gamgee, and one of the three Hobbits who sailed from Middle-earth to the Uttermost West at the end of the Third Age.",
+      "race": "Hobbit"
+    },
+    {
+      "name": "Samwise Gamgee",
+      "about": "Samwise Gamgee, also known as Sam, was a Hobbit of the Shire. He was Frodo Baggins' gardener and best friend. Sam proved himself to be Frodo's closest and most dependable companion, the most loyal of the Fellowship of the Ring, and also played a necessary role in protecting Frodo and destroying the One Ring.",
+      "race": "Hobbit"
+    },
+    {
+      "name": "Tom Bombadil",
+      "about": "Tom Bombadil was an enigmatic figure that lived throughout the history of Arda. He was known by the Elves as Iarwain Ben-adar (\"Oldest and Fatherless\" in Sindarin), who dwelt in the valley of the river Withywindle, east of the Shire.A mysterious being, Tom lived in the depths of the Old Forest, close to the Barrow Downs. His lands were not particularly extensive, but within his domain his power over virtually everything in it was extraordinary. Tom was a paradoxical creature, one moment defeating ancient forces with hardly an effort, the next capering and singing nonsensical songs. He lived with his wife Goldberry, \"Daughter of the River,\" far from any other settlement. Although seemingly benevolent, he took no stance against the Dark Lords.",
+      "race": "Unknown"
+    },
+    {
+      "name": "Rosie Cotton",
+      "about": "Rosie Cotton, nicknamed Rose, was a Hobbit of the Shire. She was the wife of Samwise Gamgee, the renowned companion of Frodo Baggins during his quest to destroy the One Ring. She was the mother of Frodo Gardner, Elanor, Rose, Merry, Pippin, Goldilocks, Hamfast, Daisy, Primrose, Bilbo, Ruby, Robin, and Tolman (Tom).",
+      "race": "Hobbit"
+    },
+    {
+      "name": "Meriadoc Brandybuck",
+      "about": "Meriadoc \"Merry\" Brandybuck (later known as Meriadoc \"Merry\" Brandybuck I, due to his grandson's birth) was a Hobbit and one of Frodo's cousins and closest friends. He loved boats and ponies and had a great interest in the maps of Middle-earth. He was also one of the nine companions in The Fellowship of the Ring.",
+      "race": "Hobbit"
+    },
+    {
+      "name": "Peregrin Took",
+      "about": "Peregrin Took, more commonly known as Pippin, was a Hobbit of the Shire, and one of Frodo Baggins's youngest, but closest friends. He was a member of the Fellowship of the Ring.",
+      "race": "Hobbit"
+    },
+    {
+      "name": "Aragorn II Elessar",
+      "about": "Aragorn II, the son of Arathorn II and Gilraen, also known as Elessar as well as Strider. 16th Chieftain of the Dúnedain of the North; he was later crowned King Elessar Telcontar (March 1, 2931 - FO 120 or SR 1541), the 26th King of Arnor, and the 35th King of Gondor and first High King of Gondor and Arnor, since the short reign of Isildur. He was a great warrior, and as the heir of Isildur bore the shards of Narsil, reforged and renamed Andúril, in the War of the Ring.",
+      "race": "Men"
+    },
+    {
+      "name": "Legolas Greenleaf",
+      "about": "Legolas was a Sindarin elf who was part of the Fellowship of the Ring in the Third Age. As he was the son of the Elvenking Thranduil of Mirkwood, Legolas was a Prince of the Woodland Realm (Mirkwood), a messenger, and a master bowman. With his keen eyesight, sensitive hearing, and excellent bowmanship, Legolas was a valuable resource to the other eight members of the Fellowship. His age was never stated by Tolkien. Legolas was well-known for becoming friends with the dwarf Gimli, despite their long held differences. It is not known whether Legolas was Thranduil's only son, or whether he was heir to his father's crown.",
+      "race": "Elves"
+    },
+    {
+      "name": "Arwen",
+      "about": "Arwen was the Half-Elven daughter of Elrond and Celebrían. She was often called Arwen Undómiel or \"Evenstar\". In marrying Aragorn II Elessar after the War of the Ring, she became Queen of the Reunited Kingdom of Arnor and Gondor, and like Beren and Lúthien before her, she united Elf and Man in peaceful love and harmony, and became mortal.",
+      "race": "Half-elven, later Men"
+    },
+    {
+      "name": "Gríma Wormtongue",
+      "about": "Gríma Wormtongue was the chief advisor to King Théoden of Rohan before being exposed as an agent and spy of Saruman. He ends up being the killer of Saruman, in the last climactic chapter of The Return of the King.",
+      "race": "Men"
+    },
+    {
+      "name": "Barliman Butterbur",
+      "about": "Barliman Butterbur was a Man of Bree and the owner of The Prancing Pony in the town of Bree.",
+      "race": "Men"
+    },
+    {
+      "name": "Bilbo Baggins",
+      "about": "Bilbo Baggins was a Hobbit of the Shire, the main protagonist of The Hobbit and a secondary character in The Lord of the Rings. Gandalf suggested Bilbo Baggins to be hired by Thorin and Company to be their burglar in the Quest of Erebor, and later fought in the Battle of the Five Armies. Bilbo was also one of the bearers of the One Ring, and the first to voluntarily give it up, although with some difficulty. He wrote many of his adventures in a book he called There and Back Again. Bilbo adopted Frodo Baggins as his nephew after his parents, Drogo Baggins and Primula Brandybuck, drowned in the Brandywine River. Bilbo was the first Hobbit to become famous in the world at large, and was one of the few to visit the The Undying Lands across the ocean.",
+      "race": "Hobbit"
+    }
+  ]
+}
