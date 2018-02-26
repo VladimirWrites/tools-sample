@@ -1,0 +1,48 @@
+{
+  "characters": [
+    {
+      "name": "Luke Skywalker",
+      "about": "Luke Skywalker is the protagonist of the original film trilogy and a returning character in the Sequel Trilogy of the Star Wars universe. Finding himself apprenticed to the Jedi Masters Obi-Wan Kenobi and Yoda, he soon becomes an important figure in the Rebel Alliance's struggle against the Galactic Empire. In The Force Awakens, he is the Grand Jedi Master of the New Jedi Order and the sole surviving Jedi until his new apprentice, Rey, assumes the mantle after his death."
+    },
+    {
+      "name": "Leia Organa",
+      "about": "Leia Organa is a character in the Star Wars universe. She is the tritagonist of the original Star Wars trilogy. In Return of the Jedi, it is revealed that she is the twin sister of Luke Skywalker and thus the daughter of Darth Vader, formerly known as Anakin Skywalker. In the prequel films, her birth mother is identified as Padmé Amidala. Her adoptive father is Bail Organa, who is depicted as the head of Alderaan's Royal Family and a supporting character. In The Force Awakens, she is married to Han Solo and has a son with him, named Ben, who turned to the dark side and became Kylo Ren."
+    },
+    {
+      "name": "Yoda",
+      "about": "Yoda is a wise and sage-like diminutively-sized green alien Jedi Master and one of the main characters who appeared in the Star Wars universe. He appearing as a supporting character in the second and third films of the Original Trilogy, as well as one of the major characters in the Prequel Trilogy, and a supporting character in the Sequel Trilogy. No one knows what his species is. Yoda's adopted homeworld is Dagobah."
+    },
+    {
+      "name": "Jabba the Hutt",
+      "about": "Jabba the Hutt is a gangster and antagonist from the Star Wars Universe."
+    },
+    {
+      "name": "Jar Jar Binks",
+      "about": "Jar Jar Binks is a former Gungan military officer and a politician during the waning days of the Galactic Republic. His clumsy behavior had, at one point in his life, led to his exile from Gungan society, but he was welcomed back by his people following his efforts during the Trade Federation Invasion of Naboo. Jar Jar is best known for being the most despised character in the Star Wars franchise."
+    },
+    {
+      "name": "C-3PO",
+      "about": "C-3PO is a protocol droid from the Star Wars universe, built by Anakin Skywalker. He and R2-D2 are the only characters to have appeared in all nine of the Star Wars films."
+    },
+    {
+      "name": "Han Solo",
+      "about": "Han Solo is a major character in the Star Wars universe and the deuteragonist in the original film trilogy. In The Force Awakens, he is married to Leia Organa and has a son with her named Ben, who turned to the dark side and became Kylo Ren."
+    },
+    {
+      "name": "Obi-Wan Kenobi",
+      "about": "Obi-Wan Kenobi (later known as Ben Kenobi during his exile on Tatooine), a Jedi Master and one of the main characters who appeared in the Star Wars universe. He is one of several primary characters in the Star Wars series. Along with R2-D2, Anakin Skywalker, and C-3PO, he is one of only four characters to appear in all seven films in the main Star Wars film series."
+    },
+    {
+      "name": "Darth Vader",
+      "about": "Darth Vader is a central character in the Star Wars universe, appearing as one of the main antagonists in the original Star Wars trilogy. He is the Sith Lord persona of the fallen Jedi Knight Anakin Skywalker after his turn to the dark side. He remains an antagonist until the events of Return of the Jedi, when he eventually sacrifices his life to save his son Luke Skywalker from his master Darth Sidious, who was really the true traitor and enemy of the Galactic Republic that Mace Windu warned him of all those years ago in the Clone Wars and fulfilling the Prophecy as the Chosen One."
+    },
+    {
+      "name": "R2-D2",
+      "about": "R2-D2 is a major character in the Star Wars franchise. This is one of very few characters to appear not only in the Original Trilogy and the Prequel Trilogy, but also in the Sequel Trilogy and Rogue One. He is an R2 series astromech droid, serving as C-3PO's counterpart. Throughout the course of the films, he joins or supports Padmé Amidala, Anakin Skywalker, Princess Leia Organa, Luke Skywalker, and Obi-Wan Kenobi in various points in the saga. The late English actor Kenny Baker played R2-D2 in all three original Star Wars films, and received billing credit for the character in the Prequel Trilogy, where Baker's role was reduced, as R2-D2 was portrayed mainly by radio controlled props and/or CGI models. In the Sequel Trilogy, Baker was credited as consultant for the The Force Awakens, though Jimmy Vee performed the character in some scenes. After Baker's death, Vee later fully took over the role, beginning in The Last Jedi. R2 has been operated by John Stears, Brian Johnson, Kit West, Don Bies, Grant Imahara, Jolyon Bambridge, Oliver Steeples, and Lee Towersey."
+    },
+    {
+      "name": "Palpatine",
+      "about": "Emperor Sheev Palpatine (also known as Darth Sidious) is the main antagonist of the original Star Wars saga. He was the Supreme Chancellor of the Galactic Republic, and later became the Emperor of the Galactic Empire after the Jedi's destruction, until he was killed by his redeemed apprentice, Anakin Skywalker/Darth Vader, when he tried to kill the latter's son, Luke Skywalker."
+    }
+  ]
+}
