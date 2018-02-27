@@ -30,14 +30,14 @@
                 android:layout_marginBottom="@dimen/margin_small"
                 android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
                 android:textColor="@color/primary_text"
-                tools:text="@sample/lotr.json/characters/name" />
+                tools:text="@sample/starwars.json/characters/name" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAppearance="@style/Base.TextAppearance.AppCompat.Body1"
                 android:textColor="@color/primary_text"
-                tools:text="@sample/lotr.json/characters/about" />
+                tools:text="@sample/starwars.json/characters/about" />
 
         </LinearLayout>
     </android.support.v7.widget.CardView>

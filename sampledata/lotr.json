@@ -60,5 +60,49 @@
       "about": "Bilbo Baggins was a Hobbit of the Shire, the main protagonist of The Hobbit and a secondary character in The Lord of the Rings. Gandalf suggested Bilbo Baggins to be hired by Thorin and Company to be their burglar in the Quest of Erebor, and later fought in the Battle of the Five Armies. Bilbo was also one of the bearers of the One Ring, and the first to voluntarily give it up, although with some difficulty. He wrote many of his adventures in a book he called There and Back Again. Bilbo adopted Frodo Baggins as his nephew after his parents, Drogo Baggins and Primula Brandybuck, drowned in the Brandywine River. Bilbo was the first Hobbit to become famous in the world at large, and was one of the few to visit the The Undying Lands across the ocean.",
       "race": "Hobbit"
     }
+  ],
+  "dwarves": [
+    {
+      "name": "Thrór",
+      "about": "Thrór was a King of Durin's Folk, the son of Dáin I, the grandson of Náin II, the father of Thráin II, the brother of Frór, and Grór, the grandfather of Thorin II Oakenshield, Frerin, and Dís, and the great-grandfather of Fíli and Kíli.",
+      "birth": "TA 2542",
+      "death": "TA 2790"
+    },
+    {
+      "name": "Óin",
+      "about": "Óin was a Dwarf of Durin's Folk known for being a part of Thorin and Company during the Quest of Erebor.",
+      "birth": "TA 2774",
+      "death": "TA 2994"
+    },
+    {
+      "name": "Glóin",
+      "about": "Glóin son of Gróin was one of the Dwarves of Thorin II Oakenshield's company who set out to reclaim the Lonely Mountain in The Hobbit, and was the father of Gimli, a member of the Fellowship of the Ring.",
+      "birth": "TA 2783",
+      "death": "FO 15"
+    },
+    {
+      "name": "Balin",
+      "about": "Balin was a Dwarf leader, the son of Fundin, and elder brother of Dwalin. He was one of the thirteen Dwarves who accompanied Thorin II Oakenshield on the quest to regain the Lonely Mountain. A Dwarf Lord, Balin was old and wise, he was one of Thorin's closest friends and advisors, and was always willing to listen and offer wise counsel. Balin is distantly related to Thorin, and is a descendant of the noble house of Durin. He later went to reestablish the kingdom of Dwarves, Moria, but in five years it was reovercome by Orcs, and he was killed there.",
+      "birth": "TA 2763",
+      "death": "TA 2994"
+    },
+    {
+      "name": "Dwalin",
+      "about": "Dwalin was one of the Dwarves who travelled with Bilbo and Gandalf on the quest to regain the Lonely Mountain from Smaug. He is the brother of Balin and the youngest son of Fundin. Tall, moody, strong and very brave, Dwalin is a Dwarf through and through. A famous warrior, powerful ally and muscular, Dwalin would like nothing more than to see the return of the Dwarven King under the Mountain.",
+      "birth": "TA 2772",
+      "death": "FO 91"
+    },
+    {
+      "name": "Fíli",
+      "about": "Fíli and Kíli were brothers, the youngest of the thirteen dwarves who set out on Thorin Oakenshield's quest along with Gandalf and Bilbo Baggins to reclaim the Lonely Mountain for the Dwarves. Fíli and Kíli were the two most active dwarves of Thorin's company, and apart from Balin, and possibly Bombur, they appeared more frequently as \"individual\" characters in Tolkien's novel than the rest of Thorin's companions, who were most often named only in \"group\" references to the entire company.",
+      "birth": "TA 2859",
+      "death": "TA 2941"
+    },
+    {
+      "name": "Kíli",
+      "about": "Fíli and Kíli were brothers, the youngest of the thirteen dwarves who set out on Thorin Oakenshield's quest along with Gandalf and Bilbo Baggins to reclaim the Lonely Mountain for the Dwarves. Fíli and Kíli were the two most active dwarves of Thorin's company, and apart from Balin, and possibly Bombur, they appeared more frequently as \"individual\" characters in Tolkien's novel than the rest of Thorin's companions, who were most often named only in \"group\" references to the entire company.",
+      "birth": "TA 2864",
+      "death": "TA 2941"
+    }
   ]
 }

@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {
+      "name": "Arthur Dent",
+      "about": "Arthur Philip Dent was the hapless human who found himself thrown upon wild adventures around the Universe. With Ford Prefect, his friend of several years, Dent barely escaped the Earth's destruction as it was demolished to make way for a hyperspace bypass. Arthur spent the following several years, still wearing his dressing gown, helplessly launched from crisis to crisis while trying to straighten out his lifestyle. He rather enjoyed tea, but seemed to have trouble obtaining it in the far reaches of the galaxy. He also loved to watch movies in his spaceship. In time, he learned how to fly and also carved a niche for himself as a sandwich-maker on the planet of Lamuella.",
+      "species": "Humans"
+    },
+    {
+      "name": "Ford Prefect",
+      "about": "Ford Prefect (a.k.a. Ix) was a friend of Arthur Dent, and the semi-cousin of The President of the Galaxy, Zaphod Beeblebrox. While on Earth, he posed as an out-of-work actor until the Vogons arrived, when he revealed to Arthur that he was not in fact from Guildford, but from a small planet somewhere in the vicinity of Betelgeuse, and that he was not an out-of-work actor, but a researcher for The Hitchhiker's Guide to the Galaxy. He skimped a bit on his preparatory research, leading him to think that Ford Prefect was a perfectly inconspicuous name (according to the film, this is most likely because he believed cars were the dominant species on Earth). Aside from a few years while they were stranded on prehistoric Earth, in which they were separated, He traveled along with Arthur for much of the rest of their lives. According to the book, \"Mostly Harmless,\" He was killed on Earth when the Vogons destroyed it again, as well as any chance of it ever existing in any universe again.",
+      "species": "Betelgeusians"
+    },
+    {
+      "name": "Zaphod Beeblebrox",
+      "about": "Zaphod Beeblebrox, or the Big Z, was a former President of the Galaxy. He was born on the fifth planet of Betelgeuse and was a semi-cousin of Ford Prefect, with whom he shared three of the same mothers. Due to an accident with a contraceptive and a time machine, his direct ancestors from his father were also his direct descendants.",
+      "species": "Betelgeusians"
+    },
+    {
+      "name": "Trillian",
+      "about": "Tricia Marie McMillan, usually known as Trillian and sometimes Trillian Astra, is a human astrophysicist and mathematician whom Arthur Dent completely failed to chat up at a party at a flat in Islington. Trillian eventually left the party with Zaphod Beeblebrox, who was directly responsible for her nickname. The next time she and Arthur met was on a spaceship in deep space, six months after their first encounter and shortly after the Earth had been destroyed by the Vogons to make way for a hyperspace bypass. She is carried off and forcibly married to the President of the Algolian Chapter of the Galactic Rotary Club, though this actually occurred in the artificial universe within the Guide offices. Trillian then saves the universe from the Krikketers, and later becomes a Sub-Etha Radio reporter under the name Trillian Astra.",
+      "species": "Humans"
+    },
+    {
+      "name": "Marvin",
+      "about": "Marvin, more fully known as Marvin the Paranoid Android, is a robot manufactured by the Sirius Cybernetics Corporation. He is equipped with \"Genuine People Personalities\" (GPP)  technology which is designed to make him more like a person.",
+      "species": "Robots"
+    },
+    {
+      "name": "Slartibartfast",
+      "about": "Slartibartfast was a Magrathean designer of planets. During the planet's societal height, he constructed the coastlines of continents on planets manufactured by Magrathea; in particular, he specialised in fjords. He won an award for his work on Norway. Slartibartfast encountered Arthur Dent when he (along with Zaphod Beeblebrox, Ford Prefect, Trillian and Marvin) traveled to Magrathea. He showed Dent his newly-redesigned Africa, with plenty of fjords because they give a \"baroque\" feel to a continent. Slartibartfast shared the historical records on Sens-O-Tape with Arthur of the story of Deep Thought and the Answer to the Ultimate Question. Slartibartfast also later assisted Arthur and Ford, through the use of his starship Bistromath, in combatting the menace of the Krikkiteers.",
+      "species": "Magrathean"
+    },
+    {
+      "name": "Fenchurch",
+      "about": "Fenchurch is Arthur Dent's human soul-mate. She was named after the Fenchurch Street railway station where she was conceived in the ticket queue.",
+      "species": "Humans"
+    },
+    {
+      "name": "Random Dent",
+      "about": "Random Frequent Flyer Dent is the daughter of Arthur Dent and Trillian Astra, created when Trillian sought out a sperm bank. Trillian did not realise until later that Arthur must be the father, given that he was the only other surviving human. When Trillian, in new career as a reporter for a Sub-Etha news network, needs to leave Random unattended to go cover a war, she deposits the teenager with Arthur Dent, informing him for the first time that she exists, and then leaves. Random at first hates her father, and the \"boring\" life that comes with him. Ultimately Random comes into contact with The Guide Mark II sent to Arthur by Ford Prefect, which allows her to travel between dimensions and find a universe where Earth has not yet been destroyed. Random is later joined by Arthur, Ford and Trillian at Earth. Random later held a night club where the Tricia McMillan of that Earth was a member of hostage (Stavro Mueller's Beta). It is at Beta that the group is standing when this new version of Earth is destroyed by Prostetnic Vogon Jeltz.",
+      "species": "Humans"
+    }
+  ]
+}

@@ -36,7 +36,7 @@ preBuild.doFirst {
     }
     samplesDir.mkdir()
 
-    def files = ["lotr.json", "starwars.json"]
+    def files = ["lotr.json", "starwars.json", "hitchhikers.json", "developers.json"]
     for(fileName in files) {
         def names = new File(samplesDir, fileName)
 
