@@ -31,7 +31,7 @@ Add following code into your `build.gradle`.
         for(fileName in files) {
             def names = new File(samplesDir, fileName)
 
-            new URL("https://raw.githubusercontent.com/vlad1m1r990/tools-sample/master/sampledata/$fileName").withInputStream { i ->
+            new URL("https://raw.githubusercontent.com/VladimirWrites/tools-sample/master/sampledata/$fileName").withInputStream { i ->
                 names.withOutputStream {
                    it << i
                 }
@@ -53,7 +53,7 @@ Now you can use the sample data in your layout like this:
 Credits
 -------
 
-+ [Vladimir Jovanovic](https://github.com/vlad1m1r990)
++ [Vladimir Jovanovic](https://github.com/VladimirWrites)
 
 License
 -------
